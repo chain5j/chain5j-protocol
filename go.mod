@@ -45,5 +45,3 @@ require (
 	gopkg.in/ini.v1 v1.51.0 // indirect
 	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
-
-replace github.com/chain5j/chain5j-pkg => ../chain5j-pkg
